@@ -1,8 +1,11 @@
 # Design_E-Commerce_Database
 
 Instructions: 
+
 1-	First, import dataset from MYSQL work branch 
+
 2-	Some question just needs an answer 
+
 i.	Example: what is average of salaries 
     Answer: 2000$
 
